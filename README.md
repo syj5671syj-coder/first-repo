@@ -8,6 +8,7 @@ See [Demo](https://WWW.google.com/)
 - Python^3.11
 - Pandas==2.33
 - Numpy
+- Pandas
 
 ## How to Start
 
